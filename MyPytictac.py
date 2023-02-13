@@ -1,5 +1,4 @@
 import os
-from goto import goto, comefrom, label 
 os.system('cls')
 
 print('Игра "Крестики-нолики"')
